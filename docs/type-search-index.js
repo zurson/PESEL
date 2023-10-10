@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Main.Exceptions","l":"InvalidPeselException"},{"p":"Main","l":"Main"},{"p":"Main.Utilities","l":"Pesel"},{"p":"Main.Utilities","l":"Utils"}];updateSearchResults();
